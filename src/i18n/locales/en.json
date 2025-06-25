@@ -1,0 +1,71 @@
+{
+  "title": "Book Management System",
+  "auth": {
+    "login": {
+      "title": "Login",
+      "loadinglogin": "Logging in...",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Submit"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "text": "Category Books",
+    "book_count": "Book Count"
+  },
+  "member": {
+    "title": "Membership information",
+    "no": "No.",
+    "name": "Name and Surname",
+    "username": "Username",
+    "status": "status",
+    "action": "Actions",
+    "prefix": "Title",
+    "firstname": "Fistname",
+    "lastname": "Lastname",
+    "password": "Password",
+    "create": "Create Member",
+    "edit": "Edit Member"
+  },
+  "category": {
+    "title": "Book Category",
+    "no": "No.",
+    "name": "Category Name",
+    "action": "Actions",
+    "create": "Create Category",
+    "edit": "Edit Category"
+  },
+  "book": {
+    "title": "Book Information",
+    "no": "No.",
+    "name": "Book Name",
+    "category": "Category",
+    "price": "Price",
+    "action": "Actions",
+    "create": "Create Book",
+    "edit": "Edit Book",
+    "author": "Author",
+    "isbn": "ISBN Number",
+    "description": "Description",
+    "publishedDate": "Published Date"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "main_items": "Main items",
+    "member": "Member",
+    "category": "Category",
+    "book": "Book"
+  },
+  "extra": {
+    "header": "Sub-items",
+    "changepassword": "Change Password",
+    "newpassword": "New Password",
+    "confirmpassword": "Confirm Password",
+    "logout": "Logout",
+    "confirmlogout": "Are you sure you want to logout?"
+  },
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "save": "Save"
+}

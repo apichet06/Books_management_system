@@ -1,0 +1,4 @@
+/* ตั้ง z-index ให้สูงกว่าทุก layout/dialog */
+.swal2-container {
+  z-index: 99999 !important;
+}
