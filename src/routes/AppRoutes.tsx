@@ -7,7 +7,7 @@ import MainLayout from '@/shared/components/Layout/MainLayout';
 import BookListPage from '@/features/book/pages/BookListPage';
 import DashbordPage from '@/features/dashboard/pages/DashbordPage';
 import LogoutButton from '@/features/auth/components/LogoutButton';
-import ChangPassListPage from '@/features/changPassword/pages/changPassListPage';
+import ChangPassListPage from '@/features/changPassword/pages/ChangPassListPage';
 
 export default function AppRoutes() {
     const isAuthenticated = usePrivateRoute();
